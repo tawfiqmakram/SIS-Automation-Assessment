@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EditFamilyMember_Button</name>
+   <tag></tag>
+   <elementGuidId>5e232d9f-df2f-4602-87c6-2e51a3a3e6fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@title='Delete Link']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>60438879-f8a6-47fd-918c-df3ea9a0ea33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>system/icons/delete.png</value>
+      <webElementGuid>12924536-c29d-4b4b-9603-aedc26db5ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> z-ImageButton z-TableTreeItemImageButtonColumnValue-Image z-TableTreeItemImageButtonColumnValue</value>
+      <webElementGuid>995990e7-802c-4db1-bd05-a9cb38272b69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete Link</value>
+      <webElementGuid>92bfc1ca-db4a-4b1e-a3fa-1a9ee576d36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;z-FlowVerticalPanel z-Workspace&quot;]/div[@class=&quot;zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth zrl-FlexUseAvailableVertical&quot;]/div[@class=&quot;cellTreeWidget&quot;]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[@class=&quot;cellTreeItem cellTreeSelectedItem&quot;]/div[@class=&quot;cellTreeItem cellTreeItemImageValue&quot;]/div[@class=&quot;cellTreeItemValue&quot;]/div[@class=&quot;z-TableTreeRow z-TableTreeItemRowEven z-TableTreeItemSelected&quot;]/div[@class=&quot;z-VertAlignMiddle z-TableTreeCell z-TableTreeImageButtonCellContainer&quot;]/img[@class=&quot;z-ImageButton z-TableTreeItemImageButtonColumnValue-Image z-TableTreeItemImageButtonColumnValue&quot;]</value>
+      <webElementGuid>4f269a27-0819-4d92-918c-6fd98ce0d78a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@title='Delete Link']</value>
+      <webElementGuid>3f8f266d-35cf-492e-977c-21b27edf097c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/img</value>
+      <webElementGuid>da0bf68a-61e6-4a07-b7c3-d21196bcaf9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'system/icons/delete.png' and @title = 'Delete Link']</value>
+      <webElementGuid>8caeb880-397a-48a7-9f32-9792906aacd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Location_List</name>
+   <tag></tag>
+   <elementGuidId>92b7a771-f74f-47c7-9298-87f4051da4e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedOut&quot;]/div[@class=&quot;z-DialogBox fadeIn&quot;]/div[1]/table[1]/tbody[1]/tr[@class=&quot;dialogMiddle&quot;]/td[@class=&quot;dialogMiddleCenter&quot;]/div[@class=&quot;dialogMiddleCenterInner dialogContent&quot;]/div[@class=&quot;z-FlowVerticalPanel GKIQDVXGCB z-DialogBoxContent&quot;]/div[@class=&quot;z-FlowHorizontalPanel GKIQDVXFCB&quot;]/select[@class=&quot;z-ListBox&quot;][count(. | //select[@class = 'z-ListBox' and (text() = 'General Authority of Islamic Affairs &amp; EndowmentIATMINISTRY OF EDUCATIONMINISTRY OF EDUCATION - PVTMINISTRY OF EDUCATION-ASSPMINISTRY OF EDUCATION-CEMINISTRY OF EDUCATION-POD centers' or . = 'General Authority of Islamic Affairs &amp; EndowmentIATMINISTRY OF EDUCATIONMINISTRY OF EDUCATION - PVTMINISTRY OF EDUCATION-ASSPMINISTRY OF EDUCATION-CEMINISTRY OF EDUCATION-POD centers')]) = count(//select[@class = 'z-ListBox' and (text() = 'General Authority of Islamic Affairs &amp; EndowmentIATMINISTRY OF EDUCATIONMINISTRY OF EDUCATION - PVTMINISTRY OF EDUCATION-ASSPMINISTRY OF EDUCATION-CEMINISTRY OF EDUCATION-POD centers' or . = 'General Authority of Islamic Affairs &amp; EndowmentIATMINISTRY OF EDUCATIONMINISTRY OF EDUCATION - PVTMINISTRY OF EDUCATION-ASSPMINISTRY OF EDUCATION-CEMINISTRY OF EDUCATION-POD centers')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c35c5772-32d8-432b-a8ea-b1caf41b4689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-ListBox</value>
+      <webElementGuid>f92e613f-9729-434a-a13a-3e6addf72711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Authority of Islamic Affairs &amp; EndowmentIATMINISTRY OF EDUCATIONMINISTRY OF EDUCATION - PVTMINISTRY OF EDUCATION-ASSPMINISTRY OF EDUCATION-CEMINISTRY OF EDUCATION-POD centers</value>
+      <webElementGuid>4bfa7dec-a8c7-47d9-b80c-a4010b877c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedOut&quot;]/div[@class=&quot;z-DialogBox fadeIn&quot;]/div[1]/table[1]/tbody[1]/tr[@class=&quot;dialogMiddle&quot;]/td[@class=&quot;dialogMiddleCenter&quot;]/div[@class=&quot;dialogMiddleCenterInner dialogContent&quot;]/div[@class=&quot;z-FlowVerticalPanel GKIQDVXGCB z-DialogBoxContent&quot;]/div[@class=&quot;z-FlowHorizontalPanel GKIQDVXFCB&quot;]/select[@class=&quot;z-ListBox&quot;]</value>
+      <webElementGuid>1801e2cb-b926-464f-8d91-5e2b6704fd3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site'])[1]/following::select[1]</value>
+      <webElementGuid>66dbd260-5429-4ab9-996b-2a4ea38b2d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit:'])[1]/following::select[2]</value>
+      <webElementGuid>560c1dda-35b9-414e-b8fc-9fe154c47d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit:'])[1]/following::select[2]</value>
+      <webElementGuid>c6eb6fc1-24cc-4c16-b404-f60d38152445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='عربي'])[1]/preceding::select[1]</value>
+      <webElementGuid>cf1f5358-a9a8-4f01-ada2-6b24faefcf88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>c03efe7c-4da1-40d6-aee2-6c3ee5fb96da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'General Authority of Islamic Affairs &amp; EndowmentIATMINISTRY OF EDUCATIONMINISTRY OF EDUCATION - PVTMINISTRY OF EDUCATION-ASSPMINISTRY OF EDUCATION-CEMINISTRY OF EDUCATION-POD centers' or . = 'General Authority of Islamic Affairs &amp; EndowmentIATMINISTRY OF EDUCATIONMINISTRY OF EDUCATION - PVTMINISTRY OF EDUCATION-ASSPMINISTRY OF EDUCATION-CEMINISTRY OF EDUCATION-POD centers')]</value>
+      <webElementGuid>fbd4544c-7369-4c45-8386-5919a026e9b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

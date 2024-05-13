@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ExceptionType_List</name>
+   <tag></tag>
+   <elementGuidId>d34d6275-4abf-4ec7-abdd-c9aaa3a6e3f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.z-MultiSelectionListBox.z-MultiSelectionListBox-readonly</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2b2cc85a-5186-4a87-aca7-7ad67af66e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>aa845e5b-23e6-4bcb-80cd-2cf9e9a9a8e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-MultiSelectionListBox z-MultiSelectionListBox-readonly</value>
+      <webElementGuid>43e4da57-a793-49a9-9096-3a11da9967d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[6]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;z-ScrollPage zrl-FlexVertical z-Workspace&quot;]/div[@class=&quot;z-DisclosurePanel z-RoundedPanelFullWidth z-DisclosurePanel-open&quot;]/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;z-FlowHorizontalPanel z-DisclosurePanelContent&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanelWithTitle&quot;]/div[2]/input[@class=&quot;z-MultiSelectionListBox z-MultiSelectionListBox-readonly&quot;]</value>
+      <webElementGuid>a84fa12c-a38b-4a0e-9a0a-0a9c2d738076</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[7]</value>
+      <webElementGuid>98ee6980-44cc-4093-b5bf-851bbcb488d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/input</value>
+      <webElementGuid>7da95651-dc0a-4e18-8f18-409496711ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>46c1d280-159b-4833-baff-39bfdb5d94f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

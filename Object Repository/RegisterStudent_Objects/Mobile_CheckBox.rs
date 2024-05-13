@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Mobile_CheckBox</name>
+   <tag></tag>
+   <elementGuidId>ca9cc753-c44d-4869-b082-21ce195d3b4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.z-CheckBoxCell > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[3]/div/span/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d81d07e7-96ff-4d21-92fc-1bf5cab8c98c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>zcheck_cell_ro_301</value>
+      <webElementGuid>bca3817e-5ab3-4ece-acbe-49631627742c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-DialogBox fadeIn&quot;]/div[1]/table[1]/tbody[1]/tr[@class=&quot;dialogMiddle&quot;]/td[@class=&quot;dialogMiddleCenter&quot;]/div[@class=&quot;dialogMiddleCenterInner dialogContent&quot;]/div[@class=&quot;z-DialogBoxContent&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-ScrollPage z-Workspace&quot;]/div[@class=&quot;z-Scroll&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;dataGridWidget z-DataGrid z-Phone-Editor&quot;]/div[3]/div[@class=&quot;GKIQDVXMH&quot;]/div[2]/div[1]/div[@class=&quot;GKIQDVXH&quot;]/table[1]/tbody[1]/tr[@class=&quot;dataGridEvenRow dataGridHoveredRow&quot;]/td[@class=&quot;dataGridCell dataGridEvenRowCell dataGridHoveredRowCell&quot;]/div[1]/span[@class=&quot;z-CheckBoxCell&quot;]/label[1]</value>
+      <webElementGuid>57a118b3-59ac-405b-a596-9a243a25b7d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/span/label</value>
+      <webElementGuid>a2b92d27-b1dc-4017-9100-24debe26f7e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
